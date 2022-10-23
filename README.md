@@ -13,3 +13,7 @@ The sample input file "SampleWorkshopTranscript.VTT" in this git repo came from 
 
 The simple panda dataframe that is then exported into an output file : "cleaned_table.xlsx which is then used as input for a PBIX file to show case 
 how these transcripts can be used to run a simple sentiment and key phrase word analysis thru Microsoft PowerBI's Text Analysis features
+
+This github repo is accompanied by 
+A Youtube video https://youtu.be/iZ0pOSL8JZw
+A Medium article https://zhijingeu.medium.com/building-a-meeting-transcript-exploratory-text-analysis-tool-with-python-power-bi-860f4238dce6
